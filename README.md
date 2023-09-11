@@ -47,4 +47,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gauravgupta256"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gauravgupta256" /></a><a href="https://ko-fi.com/gauravgupta256"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gauravgupta256" /></a></p><br><br>
 
+<h3 align="left">Stats:</h3>
+<p align="left">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravgupta256&show_icons=true&locale=en" alt="gauravgupta256" /></p>
