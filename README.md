@@ -7,19 +7,19 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate with **none**
+- 👯 I’m looking to collaborate with **none rn**
 
-- 🤝 I’m looking for help from **none**
+- 🤝 I’m looking for help from **none rn**
 
-- 👨‍💻 All of my projects are available **no where**
+- 👨‍💻 All of my projects are available **in my repos**
 
-- 💬 Ask me about **nothing**
+- 💬 Ask me about **coding/hacking**
 
-- 📫 How to reach me **but you cant**
+- 📫 How to reach me **['here'](https://github.com/GauravGupta256#:~:text=even%20idk%20that!-,Connect%20with%20me%3A,-Languages%20and%20Tools)**
 
 - 📄 Know about my experiences **soon**
 
-- ⚡ Fun fact **even idk that!**
+- ⚡ Fun fact **I am a human!**
 
 <p align="left"> <a href="https://twitter.com/sssup_gaurav" target="blank"><img src="https://img.shields.io/twitter/follow/sssup_gaurav?logo=twitter&style=for-the-badge" alt="sssup_gaurav" /></a> </p>
 
