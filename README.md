@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help from **none rn**
 
-- 👨‍💻 All of my projects are available **in my repos**
+- 👨‍💻 All of my projects are available **in my [repos](https://github.com/GauravGupta256?tab=repositories)**
 
 - 💬 Ask me about **coding/hacking**
 
