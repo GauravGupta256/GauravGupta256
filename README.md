@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <h3 align="center"><img src="https://komarev.com/ghpvc/?username=gauravgupta256&label=Profile%20views&color=0e75b6&style=flat" alt="gauravgupta256" /> </p></h3>
+<p align="center"> <a href="https://github.com/GauravGupta256" target="blank"><img src="https://img.shields.io/badge/FOLLOW-100000?style=for-the-badge&logo=github&logoColor=white" alt="sssup_gaurav" /></a> </p> 
 
 - 🔭 I’m currently working on **something cool**
 
@@ -20,8 +21,6 @@
 - 📄 Know about my experiences **soon**
 
 - ⚡ Fun fact **I am a human!**
-
-<p align="left"> <a href="https://twitter.com/sssup_gaurav" target="blank"><img src="https://img.shields.io/twitter/follow/sssup_gaurav?logo=twitter&style=for-the-badge" alt="sssup_gaurav" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,4 +48,4 @@
 
 <h3 align="left">Stats:</h3>
 <p align="left">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravgupta256&show_icons=true&locale=en" alt="gauravgupta256" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GauravGupta256&theme=default" alt="gauravgupta256" /></p> 
