@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **['here'](https://github.com/GauravGupta256#:~:text=am%20a%20human!-,Connect%20with%20me%3A,-Languages%20and%20Tools)**
 
-- 📄 Know about my experiences **soon**
+- 📄 Wanna know about my experiences? **2 Years**
 
 - ⚡ Fun fact **I am a human!**
 
