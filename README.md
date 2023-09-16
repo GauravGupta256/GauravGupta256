@@ -15,7 +15,9 @@
 
 - 📄 Wanna know about my experiences? **2 Years**
 
-- ⚡ Fun fact **I am a human!**
+- ⚡ Fun fact **I love creating new things**
+
+- 🚀 Quote **Turning imagination into reality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
