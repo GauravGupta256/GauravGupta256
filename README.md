@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **coding/hacking**
 
-- 📫 How to reach me **['here'](https://github.com/GauravGupta256#:~:text=even%20idk%20that!-,Connect%20with%20me%3A,-Languages%20and%20Tools)**
+- 📫 How to reach me **['here'](https://github.com/GauravGupta256#:~:text=am%20a%20human!-,Connect%20with%20me%3A,-Languages%20and%20Tools)**
 
 - 📄 Know about my experiences **soon**
 
