@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available **in my [repos](https://github.com/GauravGupta256?tab=repositories)**
+- 👨🏻‍💻 All of my projects are available **in my [repos](https://github.com/GauravGupta256?tab=repositories)**
 
 - 💬 Ask me about **coding/hacking**
 
 - 📫 How to reach me **['here'](https://github.com/GauravGupta256#:~:text=am%20a%20human!-,Connect%20with%20me%3A,-Languages%20and%20Tools)**
 
-- 📄 Wanna know about my experiences? **2 Years**
+- 📄 My experience is of **2 Years**
 
 - ⚡ Fun fact **I love creating new things**
 
