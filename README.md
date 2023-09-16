@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love creating new things**
 
-- 🚀 Quote **Turning imagination into reality**
+- 🚀 **Turning imagination into reality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
