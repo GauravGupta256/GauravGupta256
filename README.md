@@ -5,19 +5,9 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **web development**
 
-- 👨🏻‍💻 All of my projects are available **in my [repos](https://github.com/GauravGupta256?tab=repositories)**
-
-- 💬 Ask me about **coding/hacking**
-
-- 📫 How to reach me **['here'](https://github.com/GauravGupta256#:~:text=am%20a%20human!-,Connect%20with%20me%3A,-Languages%20and%20Tools)**
-
-- 📄 My experience is of **2 Years**
-
-- ⚡ Fun fact **I love creating new things**
-
-- 🚀 **Turning imagination into reality**
+- 📫 How to reach me **[gauravdev@gmail.com](mailto:gauravdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
