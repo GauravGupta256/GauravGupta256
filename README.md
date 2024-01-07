@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gaurav</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <h3 align="center"><img src="https://visitcount.itsvg.in/api?id=GauravGupta256&label=Profile%20Views&color=12&icon=0&pretty=true" /> </p></h3>
